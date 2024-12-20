@@ -1,9 +1,9 @@
-#CS360-Mobile_Architecture - Android Inventory Management App
-#Project Overview
+# CS360-Mobile_Architecture - Android Inventory Management App
+# Project Overview
 
 The Android Inventory Management App is designed to simplify tracking and managing inventory items for users, ensuring efficiency and ease of use. This mobile-friendly application provides a comprehensive solution for monitoring stock levels, updating quantities, and receiving notifications for low inventory.
 
-#Key Features
+# Key Features
 
 1. User Authentication: Secure login and account creation.
 2. Inventory Management: Create, read, update, and delete inventory items.
@@ -12,7 +12,7 @@ The Android Inventory Management App is designed to simplify tracking and managi
 5. User-Friendly Interface: Grid-based inventory item display for efficient management.
 
 
-#User-Centered Design
+# User-Centered Design
 
 The app’s user interface prioritizes simplicity and functionality to ensure a seamless user experience. Key screens include:
 
@@ -24,7 +24,7 @@ The app’s user interface prioritizes simplicity and functionality to ensure a 
 
 The grid layout is designed for quick navigation, with intuitive icons and buttons enabling swift actions like adding, editing, or deleting items.
 
-#Development Approach
+# Development Approach
 
 Coding Strategies
 
@@ -34,7 +34,7 @@ Coding Strategies
 
 These strategies ensure the app is well-structured, maintainable, and scalable for future enhancements.
 
-#Testing Methodology
+# Testing Methodology
 
 1. Android Emulator: Tested on multiple device configurations and Android versions.
 2. Unit Testing: Validated core components like database operations and authentication.
@@ -43,11 +43,11 @@ These strategies ensure the app is well-structured, maintainable, and scalable f
    
 Thorough testing was integral to identifying and resolving issues, ensuring reliability and an optimal user experience across diverse scenarios.
 
-#Challenges and Innovations
+# Challenges and Innovations
 
 A key challenge was designing a notification system that respected user permissions. To address this, a fallback notification mechanism was implemented, allowing users without SMS permissions to receive in-app alerts for critical inventory updates. This innovation enhanced user accessibility without compromising functionality.
 
-#Highlight: SQLite Database Integration
+# Highlight: SQLite Database Integration
 The integration of an SQLite database is a standout feature, showcasing:
 
 1. Efficient Data Modeling: Tailored for inventory management.
@@ -57,7 +57,7 @@ The integration of an SQLite database is a standout feature, showcasing:
 
 This robust backend system is vital to the app’s core functionality and demonstrates proficiency in database management.
 
-#Conclusion
+# Conclusion
 The Android Inventory Management App delivers a reliable, user-friendly solution for individuals and small business owners to manage their inventory effectively. By combining secure authentication, efficient data handling, and optional SMS notifications, the app offers versatility and adaptability to various user needs. This project serves as a practical example of thoughtful design, rigorous testing, and innovative problem-solving in mobile application development.
 
 
